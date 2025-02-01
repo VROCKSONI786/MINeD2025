@@ -115,7 +115,12 @@ For podcast generation, we utilize the **Murf API** for text-to-speech conversio
 python main.py --input paper.pdf --output presentation.pptx --podcast_style "fun"
 ```
 
-
+## **The team**
+- Arhaan Godhrawala: https://github.com/Mephisto2412
+- Diya Shah: https://github.com/diyashah28
+- Drishya Shah: https://github.com/DrishyaShah
+- Parth Thakker:https://github.com/Parth-Thakker-2004
+- Vrutik Soni: https://github.com/VROCKSONI786
 
 ### **License**
 MIT License
