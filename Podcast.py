@@ -9,8 +9,7 @@ import streamlit as st
 
 # Murf AI API Endpoint
 API_URL = "https://api.murf.ai/v1/speech/generate"
-#API_KEY = "ap2_30ce88ef-190b-4d44-b710-71d5ee0a2679"
-API_KEY="ap2_fcf7d39f-da99-444e-b8ab-eea43dcc019b"
+API_KEY=""
 
 # Assign different voices
 VOICES = {
