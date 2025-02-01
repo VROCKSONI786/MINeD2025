@@ -7,7 +7,7 @@ import re
 import json
 import textwrap
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "your_api_key")
 client = groq.Client(api_key=GROQ_API_KEY)
 
 def extract_text_from_pdf(uploaded_file):
