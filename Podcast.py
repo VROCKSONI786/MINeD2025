@@ -116,7 +116,7 @@ def clean_text(text):
 def generate_podcast_script(extracted_text,user_remark):
 
 
-    genai.configure(api_key="AIzaSyDtljffa-NkSXbL6mY9konUG_y56_MsFPI")
+    genai.configure(api_key="api_key_here")
 
     # Create the model
     generation_config = {
