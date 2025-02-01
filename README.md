@@ -87,15 +87,8 @@ For podcast generation, we utilize the **Murf API** for text-to-speech conversio
    - **Even slides**: Image on the left.
    - **Odd slides**: Image on the right.
 
-### **5. Error Handling & Optimization**
-- **Fallback mechanisms** for missing images.
-- **Default templates** for missing or unformatted slides.
-- **Text truncation** to prevent exceeding model token limits.
-- **Cache embeddings** for frequently processed documents.
-- **Parallel processing** for image and text extraction.
-- **Optimized FAISS index** for faster retrieval.
 
-### **6. Future Improvements**
+### **5. Future Improvements**
 - **More dynamic layouts** for PowerPoint slides.
 - **Better text-image alignment** using advanced embedding techniques.
 - **Support for more voice customization** in podcasts.
@@ -110,10 +103,7 @@ For podcast generation, we utilize the **Murf API** for text-to-speech conversio
   pip install unstructured sentence-transformers faiss-cpu python-pptx murf-api
   ```
 
-### **Run the Application**
-```bash
-python main.py --input paper.pdf --output presentation.pptx --podcast_style "fun"
-```
+
 
 ## **The team**
 - Arhaan Godhrawala: https://github.com/Mephisto2412
