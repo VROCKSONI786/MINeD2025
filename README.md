@@ -6,7 +6,14 @@ This project takes a **research paper** as input and generates:
 2. **A podcast** with customizable styles, such as short and funny or technically focused.
 
 ## Live Demo
-- **Podcast Output:** https://drive.google.com/file/d/1je8cUZz-zE2lIluTEBp4rSykJlDX5ZwY/view?usp=sharing 
+We gave a bone metastatis prediction research paper as the input and it gave the following output after we prompted it to create a casual, fun and short podcast. 
+Here's the paper link: https://ieeexplore.ieee.org/document/10441154
+- **Podcast Output:** https://drive.google.com/file/d/1je8cUZz-zE2lIluTEBp4rSykJlDX5ZwY/view?usp=sharing
+- For presentations, we try to generate a formal presentation that summarises the key highlights of the paper.
+- The papers used for this are as follows:
+- paper 1: https://ieeexplore.ieee.org/document/10570111
+- paper 2: Cannot be made public as it is yet to be published.
+- paper 3:   https://ieeexplore.ieee.org/document/10441154
 - **Presentation Samples:** https://drive.google.com/drive/folders/1DDVNbbD7j5vykoHW_PfsznG2ZrRLMz2Y?usp=sharing
 
 ---
